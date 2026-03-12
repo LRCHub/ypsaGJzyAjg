@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Peter Pan",
+  "base_artist": "i-dle",
+  "createdAt": "2026-03-12T16:00:56.884565Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "In Search Of Peter Pan",
+      "artist": "Kate Bush",
+      "has_synced": true,
+      "path": "select/01_In_Search_Of_Peter_Pan_Kate_Bush.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Peter Pan",
+      "artist": "Enrico Ruggeri",
+      "has_synced": true,
+      "path": "select/02_Peter_Pan_Enrico_Ruggeri.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Peter Pan",
+      "artist": "Nena",
+      "has_synced": true,
+      "path": "select/03_Peter_Pan_Nena.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Peter Pan Syndrome",
+      "artist": "Soko",
+      "has_synced": true,
+      "path": "select/04_Peter_Pan_Syndrome_Soko.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Peter Pan RIP",
+      "artist": "Kula Shaker",
+      "has_synced": true,
+      "path": "select/05_Peter_Pan_RIP_Kula_Shaker.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "In Search of Peter Pan (2018 Remaster)",
+      "artist": "Kate Bush",
+      "has_synced": true,
+      "path": "select/06_In_Search_of_Peter_Pan_(2018_Remaster)_Kate_Bush.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Peter Pan",
+      "artist": "Enrico Ruggeri",
+      "has_synced": false,
+      "path": "select/07_Peter_Pan_Enrico_Ruggeri.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "You Can Fly! You Can Fly! You Can Fly! - From \"Peter Pan\"/Soundtrack Version",
+      "artist": "Tommy Luske, Bobby Driscoll, The Jud Conlon Chorus, Paul Collins & Kathryn Beaumont",
+      "has_synced": true,
+      "path": "select/08_You_Can_Fly!_You_Can_Fly!_You_Can_Fly!_-_From__Peter_Pan_Soundtrack_Version_Tommy_Luske,_Bobby_Driscoll,_The_Jud_Conlon_Chorus,_Paul_Collins_&_Kathryn_Beaum.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Jud Conlon Chorus  You Can Fly! You Can Fly! You Can Fly! [From Walt Disney's ''Peter Pan'",
+      "artist": "Disney",
+      "has_synced": true,
+      "path": "select/09_The_Jud_Conlon_Chorus_You_Can_Fly!_You_Can_Fly!_You_Can_Fly!_[From_Walt_Disney's_Disney.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Peter Pan",
+      "artist": "Patty Griffin",
+      "has_synced": false,
+      "path": "select/10_Peter_Pan_Patty_Griffin.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Peter Pan",
+      "artist": "Arcade Fire",
+      "has_synced": true,
+      "path": "select/11_Peter_Pan_Arcade_Fire.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "In Search Of Peter Pan",
+      "artist": "Bush, Kate",
+      "has_synced": true,
+      "path": "select/12_In_Search_Of_Peter_Pan_Bush,_Kate.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Peter Pan",
+      "artist": "Kelsea Ballerini",
+      "has_synced": true,
+      "path": "select/13_Peter_Pan_Kelsea_Ballerini.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "피터팬 Peter Pan - Live",
+      "artist": "EXO",
+      "has_synced": true,
+      "path": "select/14_피터팬_Peter_Pan_-_Live_EXO.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "피터팬 (Peter Pan)",
+      "artist": "EXO",
+      "has_synced": true,
+      "path": "select/15_피터팬_(Peter_Pan)_EXO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Peter Pan",
+      "artist": "i-dle",
+      "has_synced": false,
+      "path": "select/pl_01_Peter_Pan_i-dle.txt"
+    }
+  ]
+}
